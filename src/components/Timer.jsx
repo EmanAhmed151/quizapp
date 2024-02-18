@@ -16,3 +16,4 @@ export default function Timer({ setTimeOut, questionNumber }) {
   }, [questionNumber]);
   return timer;
 }
+//eman 
